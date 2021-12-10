@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Mumeeta
 - 👀 I’m interested in Programming...
 - 🌱 I’m currently learning React...
-- 📫 How to reach me ...
-<a href="https://www.linkedin.com/in/ms-15157b152 "><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+- 
 
 
 
