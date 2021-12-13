@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mumeeta
 - 👀 I’m interested in Programming...
 - 🌱 I’m currently learning React...
-- 
+- ✨ I do painting in my free time 🙂.
 
 
 
