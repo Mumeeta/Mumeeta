@@ -19,9 +19,10 @@
  <a href="https://reactjs.org/"> 
      <img alt="Reactjs" src="https://img.shields.io/badge/-reactjs-blue">
    </a>
-    <a href="https://reactnative.dev/"> 
-     <img alt="ReactNative" src=" https://img.shields.io/badge/reactnative">
-   </a>
+  <a href="https://reactnative.dev/"> 
+    <img alt="ReactNative" src="https://img.shields.io/badge/reactnative">
+</a>
+
   
 
   &emsp;
